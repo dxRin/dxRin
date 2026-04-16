@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🙋‍♀️ Hi! I'm Rin
 
-<!--
-**dxRin/dxRin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student | Specializing in Metaverse, VR & Blockchain
 
-Here are some ideas to get you started:
+Working at the intersection of design, marketing, and code to build intentional digital experiences. I’m interested in why people stay and what makes them act, so I design and build with that psychology in mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Using AI to move faster and think smarter.  
+
+
+*The Stack*
+- **Designer:** Design guided by psychology
+- **Marketer:** That drives action and growth
+
+certified.
+
+- **Tech:** Exploring Metaverse, XR & Blockchain   
+
+Building expertise through practical application, every iteration compounds.
